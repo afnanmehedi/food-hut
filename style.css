@@ -40,7 +40,7 @@ section {
   text-align: center;
   margin-top: 8%;
   margin-right: 10%;
-  padding: 3%;
+  padding: 1%;
 }
 .sectwo-img {
   width: 50%;
@@ -52,4 +52,7 @@ section {
   background-image: url(images/sectiontwo\ bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+}
+.button-two{
+  line-height: 8em;
 }
